@@ -1,8 +1,11 @@
 import React from 'react';
+import Header from './sections/Header';
 
 const App = () => {
   return (
-      "App"
+      <main className='overflow-hidden'>
+        <Header />
+      </main>
   );
 };
 
