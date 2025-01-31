@@ -21,6 +21,10 @@ This project is a modern SaaS landing page built using **React** and **Vite**, w
 - **react-countup**: Animated number counter
 - **react-slidedown**: Collapsible sections
 
+## Live Demo
+
+🌐 [View Website Demo](https://xora.iakash.dev/)
+
 ## Installation & Setup
 
 ### Clone the repository
